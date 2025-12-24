@@ -5,9 +5,10 @@ AI-powered web development agency - from concept to operation.
 ## Quick Start for AI Models
 
 **Read these files in order:**
-1. `STATUS.md` - Current state, what's done, what's next
-2. `CLAUDE.md` - How to work on this project
-3. Check GitHub Project board for tasks
+1. `SESSION-LOG.md` - What happened in previous sessions, what's next
+2. `STATUS.md` - Current state, progress on each topic
+3. `CLAUDE.md` - How to work on this project (extractive brainstorming rules)
+4. Check GitHub Project board for tasks
 
 ## What This Is
 
@@ -18,6 +19,7 @@ This repository IS the agency - not just planning docs, but the operational foun
 ```
 agency/
 ├── README.md           # You are here
+├── SESSION-LOG.md      # Session history (read first!)
 ├── STATUS.md           # Current state & progress tracker
 ├── CLAUDE.md           # AI instructions & workflow rules
 ├── brainstorm/         # Brainstorm sessions & decisions

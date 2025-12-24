@@ -1,23 +1,23 @@
 # Agency Status
 
-**Last Updated:** December 24, 2025
+**Last Updated:** December 24, 2025 @ 8:45 PM
 **Current Phase:** Brainstorming
-**Next Action:** Start brand brainstorming session
+**Next Action:** Start brand brainstorming session in Claude Desktop
 
 ---
 
 ## Progress Tracker
 
 ### Phase 1: Brainstorming
-| Topic | Status | Session Link |
-|-------|--------|--------------|
-| Brand Identity | NOT STARTED | - |
-| Legal/UK Setup | NOT STARTED | - |
-| Services | NOT STARTED | - |
-| Pricing | NOT STARTED | - |
-| Client Workflow | NOT STARTED | - |
-| Website | NOT STARTED | - |
-| Growth Plan | NOT STARTED | - |
+| Topic | Status | Issue | Notes |
+|-------|--------|-------|-------|
+| Brand Identity | NOT STARTED | [#1](https://github.com/WasimNagy77/agency/issues/1) | Name, tagline, values, positioning |
+| Legal/UK Setup | NOT STARTED | [#2](https://github.com/WasimNagy77/agency/issues/2) | Ltd registration, virtual office |
+| Services | NOT STARTED | [#3](https://github.com/WasimNagy77/agency/issues/3) | What we offer, turnaround times |
+| Pricing | NOT STARTED | [#4](https://github.com/WasimNagy77/agency/issues/4) | Tiers, payment terms |
+| Client Workflow | NOT STARTED | [#5](https://github.com/WasimNagy77/agency/issues/5) | How the 13 agents collaborate |
+| Website | NOT STARTED | [#6](https://github.com/WasimNagy77/agency/issues/6) | Domain, pages, tech stack |
+| Growth Plan | NOT STARTED | [#7](https://github.com/WasimNagy77/agency/issues/7) | First clients, scaling |
 
 ### Phase 2: Setup
 | Task | Status | Owner |
