@@ -26,6 +26,10 @@ This file tracks all work sessions. Update after each significant action.
    - ✅ decision-guide ("how should I handle...")
 5. Fixed: Added explicit dept:X label requirement for delegation
 6. Cleanup: Closed test issue #47 in nail-candy-website
+7. **Added Continuous Saving Protocol:**
+   - BRAIN.md: Save after every action, not at end
+   - WORKER.md: Commit after every change, push every few minutes
+   - Rule: "If session died now, would next session know what to do?"
 
 ### What's Next
 - **GOD MODE WORKFLOW VALIDATED** ✅
