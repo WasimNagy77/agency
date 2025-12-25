@@ -1,41 +1,34 @@
 # Agency - Session Log
 
-This file tracks all work sessions. Update after each significant action.
+**Note:** This is a SIDE PROJECT for brainstorming Wasim's agency idea.
+The main God Mode framework lives in: `claude-project-template`
+
+This file tracks brainstorming sessions for the agency.
 
 ---
 
 ## Current Session
 
 **Date:** December 25, 2025
-**Started:** Continued after context reset
-**Environment:** Claude Code (Terminal)
-**Focus:** Finalizing God Mode for Testing
+**Focus:** This repo was used to TEST the God Mode framework
 
-### What Was Done This Session
+### What Happened
 
-1. Context restored from summary
-2. Committed and pushed BRAIN.md with automatic prompt triggers
-3. Changed from phrase-matching to intent-based matching
-4. **Tested all 7 God Mode triggers - ALL WORKING:**
-   - ✅ repo-overview ("status of nail candy")
-   - ✅ daily-standup ("catch me up")
-   - ✅ worker-delegation ("create task for dev...")
-   - ✅ agency-dashboard ("what are we working on")
-   - ✅ pr-review ("any PRs to review")
-   - ✅ issue-triage ("organize the issues")
-   - ✅ decision-guide ("how should I handle...")
-5. Fixed: Added explicit dept:X label requirement for delegation
-6. Cleanup: Closed test issue #47 in nail-candy-website
-7. **Added Continuous Saving Protocol:**
-   - BRAIN.md: Save after every action, not at end
-   - WORKER.md: Commit after every change, push every few minutes
-   - Rule: "If session died now, would next session know what to do?"
+This repo served as a test case for the God Mode workflow:
+- Tested 7 triggers using this repo and nail-candy-website
+- Created test issue #47 (favicon) - then closed it
+- Validated the workflow works
 
-### What's Next
-- **GOD MODE WORKFLOW VALIDATED** ✅
-- Ready for real use:
-  - Brainstorm agency (Issue #1: Brand Identity)
-  - Or work on nail candy remaining issues
+**Primary work was in:** `claude-project-template` (see SESSION-LOG.md there)
+
+### What's Next for THIS Repo
+
+Brainstorming hasn't started yet:
+- Issue #1: Brand Identity - NOT STARTED
+- Issue #2: Legal/UK Setup - NOT STARTED
+- Issue #3-7: Other topics - NOT STARTED
+
+When ready to brainstorm, use Claude Desktop with the God Mode workflow.
 
 ---
 
