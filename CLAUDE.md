@@ -1,10 +1,15 @@
 # Claude Instructions
 
-## First: Read STATUS.md
-Always check `STATUS.md` first to understand:
-- Current phase
-- What's been decided
-- What's next
+**This is the AI entry point.** For human overview, see [README.md](./README.md).
+
+---
+
+## On Startup: Read These Files
+
+1. **STATUS.md** - Current phase, what's decided, what's next
+2. **SESSION-LOG.md** - What happened in previous sessions
+
+Then you'll know exactly where we are and what to do.
 
 ## How to Work on This Project
 
