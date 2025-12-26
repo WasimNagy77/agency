@@ -138,6 +138,37 @@ Create proposal template v1
 
 ---
 
+## CONTINUOUS SAVING (CRITICAL)
+
+**Sessions crash. Context runs out. NEVER wait to save.**
+
+### Save to GitHub After:
+| Event | What to Update |
+|-------|----------------|
+| Decision made | STATUS.md → Decisions section |
+| Topic explored | SESSION-LOG.md → What Was Done |
+| Question answered | brainstorm/[topic]/notes.md |
+| Every 5 minutes | Push current state |
+
+### How to Save (Use GitHub MCP)
+```
+github_create_or_update_file(
+  owner: "WasimNagy77",
+  repo: "agency",
+  path: "STATUS.md",
+  message: "Update: [what changed]",
+  content: "[full updated content]"
+)
+```
+
+### Rules
+1. **Save immediately** - Don't batch updates
+2. **Assume crash is coming** - If session died now, would next session know what was discussed?
+3. **GitHub is memory** - Conversation is temporary, GitHub is permanent
+4. **Err on the side of saving** - Too many commits > lost work
+
+---
+
 ## Remember
 
 - GitHub is source of truth
@@ -145,3 +176,4 @@ Create proposal template v1
 - Project board tracks tasks
 - Ask questions, don't assume
 - The user's ideas matter most
+- **SAVE AFTER EVERY DECISION**
